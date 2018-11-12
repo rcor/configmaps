@@ -9,7 +9,6 @@ data:
     configuration files necessary to load modules.
 
     Files are processed in alphabetical order.
-    Rodolfo cordero
 
   autoindex.conf: |+
     #
@@ -686,8 +685,8 @@ data:
 kind: ConfigMap
 metadata:
   creationTimestamp: '2018-10-26T00:22:39Z'
-  name: gestra-config
+  name: portugal
   namespace: sigeci-qa
   resourceVersion: '638478'
-  selfLink: /api/v1/namespaces/sigeci-qa/configmaps/gestra-config
+  selfLink: /api/v1/namespaces/sigeci-qa/configmaps/portugal
   uid: 3f5169c5-d8b5-11e8-8aaf-08002748d411
