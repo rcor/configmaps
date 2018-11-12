@@ -686,8 +686,8 @@ data:
 kind: ConfigMap
 metadata:
   creationTimestamp: '2018-10-26T00:22:39Z'
-  name: gestra-config
-  namespace: sigeci-qa
+  name: common-configmap
+  namespace: dev2
   resourceVersion: '638478'
   selfLink: /api/v1/namespaces/sigeci-qa/configmaps/gestra-config
   uid: 3f5169c5-d8b5-11e8-8aaf-08002748d411
